@@ -1,7 +1,11 @@
 #git 常用命令
 
 #克隆 git clone
+
+
 #创建分支 git branch 分支名
+
+
 #切换分支 git checkout 分支名
 #查看本地状态 git status
 文件添加到缓存 git add file|.(当前目录全部文件)
