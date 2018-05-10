@@ -1,4 +1,4 @@
-git 常用命令
+#git 常用命令
 
 克隆 git clone
 创建分支 git branch 分支名
